@@ -25,4 +25,5 @@ def generate_quick_pick():
     return quick_pick
 
 
-main()
+if __name__ == "__main__":
+    main()
